@@ -1,0 +1,11 @@
+{"level":"info","message":"New addition operation requested: 5 + 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for addition","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 7","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 9","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: 9 ^ 9","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √9","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √9","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √9","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 9 % 9","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 9 % 5","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 9 % 3","service":"calculator-microservice"}
